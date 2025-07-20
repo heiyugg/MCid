@@ -4,7 +4,8 @@
     "pointed_dripstone": "滴水石锥",
     "moss_block": "苔藓块",
     "cherry_log": "樱花原木",
-    "bamboo_slab": "竹台阶"
+    "bamboo_slab": "竹台阶",
+    "waxed_exposed_chiseled_copper": "涂蜡的斑驳雕纹铜块"
   },
   "enchantments": {
     "SHARPNESS": "锋利",
